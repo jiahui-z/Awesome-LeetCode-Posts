@@ -1,6 +1,6 @@
 # Awesome-LeetCode-Posts
 
-![Language](https://img.shields.io/badge/language-Java-orange.svg)&nbsp;
+![Language](https://img.shields.io/badge/language-Java%20%2F%20C++-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
 
 The awesome posts I found in the Discuss section of LeetCode, which is good for learn certain types of questions. Special thanks to all authors!
@@ -19,8 +19,19 @@ The awesome posts I found in the Discuss section of LeetCode, which is good for 
 
 * Array: 
 	* [Sliding Window Template](https://www.1point3acres.com/bbs/thread-544207-1-1.html)
+	* [Overlapping Interval](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/discuss/93735/a-concise-template-for-overlapping-interval-problem)
 
 * [Matrix](https://leetcode.com/problems/k-th-smallest-prime-fraction/discuss/115819/Summary-o<div%20class=)
 
 
+* String:
+	* [Substring](https://leetcode.com/problems/minimum-window-substring/discuss/26808/here-is-a-10-line-template-that-can-solve-most-substring-problems)
+	* [Sliding Window Template](https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/92007/sliding-window-algorithm-template-to-solve-all-the-leetcode-substring-search-problem)
+
+* Graph
+	* [Topological Sort](https://leetcode.com/problems/course-schedule-ii/discuss/190393/Topological-Sort-Template-General-Approach!!/213373/)
+
+
 ## Design
+
+* [System Design Template](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
