@@ -20,6 +20,8 @@ The awesome posts I found in the Discuss section of LeetCode, which is good for 
 * Array: 
 	* [Sliding Window Template](https://www.1point3acres.com/bbs/thread-544207-1-1.html)
 	* [Overlapping Interval](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/discuss/93735/a-concise-template-for-overlapping-interval-problem)
+	* [kSum](https://leetcode.com/problems/4sum/discuss/8609/My-solution-generalized-for-kSums-in-JAVA)
+	* [One or Two Passes](https://leetcode.com/problems/longest-mountain-in-array/discuss/135593/C%2B%2BJavaPython-1-pass-and-O(1)-space)
 
 * [Matrix](https://leetcode.com/problems/k-th-smallest-prime-fraction/discuss/115819/Summary-o<div%20class=)
 
